@@ -2,6 +2,10 @@
 
 TF del curso de advanced artificial inteligence (2022-02)
 
+Resultados de makespans del algoritmo con recombinations y clearing
+
+![alt text](https://raw.githubusercontent.com/SebsPER/AAI_TF_JSSP/main/images/resultados.jpg)
+
 Comparación de resultados de makespans del algoritmo con recombinations y clearing
 
 ![alt text](https://raw.githubusercontent.com/SebsPER/AAI_TF_JSSP/main/images/cuadro.jpg)
